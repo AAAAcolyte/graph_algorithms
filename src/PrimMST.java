@@ -23,7 +23,7 @@
    directed to the same fringe node with higher weight.
 
    Time complexity if O(n(n+m)) in the first one but it's O(n^2) in the
-   second one.
+   second one.3
  */
 public class PrimMST {
   private int[] parent;
